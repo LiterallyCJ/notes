@@ -109,7 +109,7 @@ $$
 
 **Prove f(x) is surjective 
 
-- Prove that the range can be the used in the inverse 
+- Prove that the entire range can be the used as an input the inverse
 
 $$
 \begin{gather*}
