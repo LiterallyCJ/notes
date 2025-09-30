@@ -115,13 +115,13 @@ $$
 - Prove that the range can be the used in the inverse 
 
 $$
-\displaylines{
+\begin{gather*}
 let\ y \in \mathbb{R} \\
 \text{for  some } x,\ y = 2x + 1 \\
 y-1 = 2x \\
 \frac{y-1}{2} = x \\
 \text{therefore, } f(x) = y \text{ hence surjective}
-}
+\end{gather*}
 $$
 
 f is surjective and therefore bijective

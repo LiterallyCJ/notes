@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Calculus I/Functions 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Functions 2"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Calculus I/Functions 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Functions 2"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Calculus I/Functions 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Functions 2"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Calculus I/Functions 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Functions 2"
             }
           }
         ]
@@ -175,15 +175,15 @@
     "Linear Algebra I/Complex Numbers 1.md",
     "Introduction to Statistics/Untitled.md",
     "General Notes/Mathematics induction.md",
-    "Calculus I/Functions 1.md",
     "Calculus I/Functions 2.md",
+    "Calculus I/Functions 1.md",
+    "index.md",
     "Linear Algebra I",
     "Introduction to Statistics",
     "General Notes",
     "Calculus I",
     "category-folder/Some note.md",
     "category-folder/index.md",
-    "index.md",
     "category-folder"
   ]
 }
