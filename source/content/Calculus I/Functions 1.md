@@ -3,10 +3,10 @@
 _Functions_
 A function f: X->Y between sets X and Y map values from one set to another
 $$
-\displaylines{
+\begin{gather*}
 \text{ Domain of } f \text{ is } X \\
 \text{Range of } f \text{ is the set } R \text{ of } Y,\ R = \{f(x) | x = X\}
-}
+\end{gather*}
 $$
 
 Types of interval
@@ -17,7 +17,7 @@ Types of interval
 
 An injective function maps one input to one output 
 	$$
-	\displaylines{\text{if}\ f(x_{1}) = f(x_{2}),\ x_{1} = x_{2}}
+	\text{if}\ f(x_{1}) = f(x_{2}),\ x_{1} = x_{2}
 	$$
 
 A surjective function is one where all of the elements in the input set are mapped to all of the elements in the output set
