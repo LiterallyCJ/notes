@@ -86,6 +86,11 @@ The graph of an inverse function is a reflection of the original function along 
 
 The identity function on a set $X$ is a function $I: x \to x$ defined by $I(x) = x$
 
+This is important because the definition of an inverse function is such:
+$$
+\text{A function } f: X \to Y \text{ has an inverse function if there is a function } g: Y \to X \text{ such that } (g \cdot f)(x) = I(x)
+$$
+
 ## <u>Proving injectivity and surjectivity</u>
 
 $$
