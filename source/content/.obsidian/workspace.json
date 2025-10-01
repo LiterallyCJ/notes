@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Linear Algebra I/Complex Numbers 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Complex Numbers 2"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Linear Algebra I/Complex Numbers 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Complex Numbers 2"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Linear Algebra I/Complex Numbers 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Complex Numbers 2"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Linear Algebra I/Complex Numbers 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Complex Numbers 2"
             }
           }
         ]
@@ -172,12 +172,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Linear Algebra I/Complex Numbers 1.md",
+    "Linear Algebra I/Complex Numbers 2.md",
+    "index.md",
     "Introduction to Statistics/Statistics basics.md",
     "Calculus I/Functions 2.md",
-    "Linear Algebra I/Complex Numbers 2.md",
     "Calculus I/Functions 3.md",
-    "index.md",
-    "Linear Algebra I/Complex Numbers 1.md",
     "Calculus I/Functions 1.md",
     "General Notes/Mathematics induction.md",
     "Linear Algebra I",
