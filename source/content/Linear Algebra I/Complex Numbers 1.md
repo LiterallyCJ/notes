@@ -1,4 +1,6 @@
-**Linear algebra concepts and methods - Martin Anthony, Michelle Harvey
+29/09/25
+
+**Linear algebra concepts and methods - Martin Anthony, Michelle Harvey**
 
 i is an imaginary unit equal to the root of -1, therefore
 
@@ -9,13 +11,13 @@ z = a + bi
 \end{gather*}
 $$
 
-A complex number is a thing of the form a+bi where a and b are real numbers (a,b : R)
+A complex number is a thing of the form $a+bi$ where $a$ and $b$ are real numbers $a,b \in \mathbb{R}$
 
 
 | The real part | The complex part |
 | ------------- | ---------------- |
-| a             | b                |
-| Re(a+bi)      | Im(a+bi)         |
+| $a$           | $b$              |
+| Re$(a+bi)$    | Im$(a+bi)$       |
 $$
 (A + Bi) + (C + Di) = ( (A + C) + (B + D)i)
 $$

@@ -10,8 +10,8 @@ f(x): \mathbb{R}  \to \mathbb{R}^+ \\
 \text{Range } f: (0, 1]
 \end{gather*}
 $$
-Not injective as f(-1) = f(1)
-Not subjective as range(f) < R
+Not injective as $f(-1) = f(1)$
+Not subjective as range$(f) \subsetneq \mathbb{R}$
 
 Changing the target set can turn a function [surjective](Functions%201.md)
 Looking at a smaller part of the domain can make a periodic function no longer periodic
@@ -76,13 +76,15 @@ $$
 
 For a function to have an inverse function it must be bijective.
 
-e.g. f(x): A -> B
+e.g. $f(x): A \to B$
 - If the function is not injective, then there may be multiple elements in set A which result in set B.
 - If the function is not surjective, then there are elements in set B which are not attainable through the function.
 
 The graph of an inverse function is a reflection of the original function along the line } x=y
 
-The identity function on a set X is a function I: x->x defined by I(x) = x
+# Identity functions
+
+The identity function on a set $X$ is a function $I: x \to x$ defined by $I(x) = x$
 
 ## <u>Proving injectivity and surjectivity</u>
 
@@ -93,7 +95,7 @@ f(x) = 2x + 1
 \end{gather*}
 $$
 
-**Prove f(x) is injective **
+**Prove f(x) is injective 
 
 - Prove that each output can only have 1 input
 
@@ -121,5 +123,5 @@ y-1 = 2x \\
 \end{gather*}
 $$
 
-f is surjective and therefore bijective
+$f$ is also surjective and therefore bijective
 

@@ -1,6 +1,6 @@
 29/09/26
 
-_Functions_
+# Functions
 A function f: X->Y between sets X and Y map values from one set to another
 $$
 \begin{gather*}
@@ -9,11 +9,11 @@ $$
 \end{gather*}
 $$
 
-Types of interval
+## Types of interval
 
--> \[a,b] Closed interval
--> (a,b) Open interval
--> \[a,b) / (a,b] Half open interval
+-> $[a,b]$ Closed interval
+-> $(a,b)$ Open interval
+-> $[a,b)$ / $(a,b]$ Half open interval
 
 An injective function maps one input to one output 
 	$$
@@ -21,7 +21,7 @@ An injective function maps one input to one output
 	$$
 
 A surjective function is one where all of the elements in the input set are mapped to all of the elements in the output set
-	E.G. range( f(x) ) = Y
+	E.G. range$(f(x)) = Y$
 
 A function is bijective if both of these conditions are true
 
