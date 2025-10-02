@@ -28,7 +28,12 @@ $$
 Proof:
 
 $$
-\begin{gather*}
-
-\end{gather*}
+\begin{align}
+z^{-1} = \frac{1}{z} \\
+\text{e.g. } (2 + i)^{-1} &\implies \frac{1}{(2+ i)} \\
+&\implies \frac{1}{2 + i} \cdot \frac{2-i}{2-i}\\
+&\implies \frac{2-i}{(2+i) \cdot (2 - i)} \\
+&\implies \frac{2-i}{5} \\
+&\implies \frac{1}{5} \cdot (2-i) = \frac{1}{|(2 + i)|^2} \cdot (2+i)^*
+\end{align}
 $$
