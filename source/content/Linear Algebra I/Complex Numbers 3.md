@@ -1,4 +1,4 @@
-02/10/25
+rrrrr02/10/25
 
 # Complex conjugation
 
@@ -47,4 +47,18 @@ z^{-1} = \frac{1}{z} \\
 \end{align}
 $$
 
-qwertyuiopasdfghjklzxcvbnm
+# Solving for polynomial equations over $\mathbb{C}$
+
+A polynomial of degree $n$ is:
+
+$$
+\begin{gather*}
+a_nx^n + a_{n-1}x^{n-1} + \dots + a_1x + A_0 \\ \\
+
+a_i \in \mathbb{C} \\
+x \text{ is a variable} \\
+a_n \neq 0
+\end{gather*}
+$$
+
+
