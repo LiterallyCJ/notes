@@ -21,6 +21,14 @@ $$
 
 $$
 \begin{gather*}
-\text
+\text{If } z \in \mathbb{C} \text{ and } z \neq 0, \\
+z^{-1}  = \frac{1}{|z|^2} \cdot z^*
+\end{gather*}
+$$
+Proof:
+
+$$
+\begin{gather*}
+
 \end{gather*}
 $$
