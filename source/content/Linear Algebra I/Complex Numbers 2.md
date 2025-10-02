@@ -39,7 +39,7 @@ $$
 # Argument of a complex number
 
 The argument arg$(z)$ of $z \in \mathbb{C}$ is the angle between $z$ and the positive $x$ axis between 
-The principle argument is one such that arg$(z): [-2\pi, 2\pi]$
+The principle argument is one such that arg$(z): [-\pi, \pi]$
 $$
 \begin{gather*}
 z = a + bi \\
