@@ -34,7 +34,7 @@ $$
 z^{-1}  = \frac{1}{|z|^2} \cdot z^*
 \end{gather*}
 $$
-Example:
+Proof with example:
 
 $$
 \begin{align}
