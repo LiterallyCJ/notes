@@ -1,4 +1,4 @@
-rrrrr02/10/25
+02/10/25
 
 # Complex conjugation
 
@@ -61,4 +61,10 @@ a_n \neq 0
 \end{gather*}
 $$
 
+Any degree complex polynomial has at least one complex root, $\alpha$
+such that $\alpha \in \mathbb{C}$, $a_n\alpha^n + a_{n-1}\alpha^{n-1} + \dots + a_1\alpha + a_0 = 0$
 
+There are at most $n$ complex roots
+
+If each $a_i \in \mathbb{R}$ and $\alpha \in \mathbb{C}$ then $\alpha^*$ is also a root 
+- Roots come in conjugate pairs
