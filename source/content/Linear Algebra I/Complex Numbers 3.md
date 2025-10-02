@@ -18,6 +18,15 @@ z \cdot z^* = |z|^2 \\
 (zw)^* = z^* \cdot w^*
 \end{gather*}
 $$
+$$
+\begin{gather*}
+\text{If } z = re^{i\theta}, \\
+z^{-1} = \frac{1}{r}e^{-i\theta} \\ \\
+
+\text{For } w \neq 0,\ z,w \in \mathbb{C} \\
+\frac{z}{w} = zw^-1
+\end{gather*}
+$$
 
 $$
 \begin{gather*}
@@ -25,7 +34,7 @@ $$
 z^{-1}  = \frac{1}{|z|^2} \cdot z^*
 \end{gather*}
 $$
-Proof:
+Example:
 
 $$
 \begin{align}
