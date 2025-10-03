@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra I/Complex Numbers 3.md",
+                "file": "Problem Classes/Linear Algebra I/Problem class 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complex Numbers 3"
+              "title": "Problem class 1"
             }
           }
         ]
@@ -172,12 +172,16 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Linear Algebra I/Complex Numbers 2.md",
+    "Problem Classes/Linear Algebra I/Problem class 1.md",
+    "Problem Classes/Calculus I",
+    "Problem Classes/Linear Algebra I",
+    "Problem Classes",
+    "Linear Algebra I/Complex Numbers 1.md",
+    "Linear Algebra I/Complex Numbers 3.md",
     "General Notes/Mathematics induction.md",
     "Programming I",
-    "Linear Algebra I/Complex Numbers 3.md",
     "index.md",
-    "Linear Algebra I/Complex Numbers 2.md",
-    "Linear Algebra I/Complex Numbers 1.md",
     "Introduction to Statistics/Statistics basics.md",
     "Calculus I/Functions 2.md",
     "Calculus I/Functions 3.md",
