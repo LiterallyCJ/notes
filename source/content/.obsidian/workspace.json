@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Statistics/Measures of spread 2.md",
+                "file": "Calculus I/Functions 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Measures of spread 2"
+              "title": "Functions 1"
             }
           }
         ]
@@ -172,10 +172,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Calculus I/Functions 2.md",
+    "Calculus I/Functions 3.md",
     "Introduction to Statistics/Measures of spread 1.md",
     "Introduction to Statistics/Measures of spread 2.md",
-    "Introduction to Statistics/Statistics basics.md",
     "Problem Classes/Linear Algebra I/Problem class 1.md",
+    "Introduction to Statistics/Statistics basics.md",
     "Linear Algebra I/Complex Numbers 2.md",
     "Problem Classes/Calculus I",
     "Problem Classes/Linear Algebra I",
@@ -185,8 +187,6 @@
     "General Notes/Mathematics induction.md",
     "Programming I",
     "index.md",
-    "Calculus I/Functions 2.md",
-    "Calculus I/Functions 3.md",
     "Calculus I/Functions 1.md",
     "Linear Algebra I",
     "Introduction to Statistics",

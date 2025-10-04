@@ -15,7 +15,15 @@ $$
 
 $$
 \begin{align}
-\sum_{i = 1}^{n}(x_i - \bar x)^2 &= \sum_{i = 1}^{n}(x_i^2 - 2 \bar x x_i + \bar x^2)
-$= \sum_{i = 1}^{n}
+\sum_{i = 1}^{n}(x_i - \bar x)^2 &= \sum_{i = 1}^{n}(x_i^2 - 2 \bar x x_i + \bar x^2) \\
+&= \sum_{i = 1}^{n}x_i^2 - \sum_{i = 1}^{n}2\bar xx_i + \sum_{i = 1}^{n} \bar x^2 \\
+&= \sum_{i = 1}^{n}x_i^2 - 2 \bar x \sum_{i = 1}^{n}x_i + n \bar x^2 \\
+(\text{We have } \bar x = \frac{1}{n}\sum_{i = 1}^{n}x_i, \text{ so},\ n \bar x =\sum_{i = 1}^{n}x+i) \\
+&= \sum_{i = 1}^{n}x_i^2 - 2n \bar x ^2 + n \bar x \\
+&=\sum_{i = 1}^{n} (x_i^2) - n \bar x^2
 \end{align}
+$$
+Therefore we can calculate variance as
+$$
+Var(x) = \frac{1}{n-1}(\sum_{i = 1}^{n}(x_i^2) - n \bar x^2)
 $$
