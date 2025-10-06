@@ -16,8 +16,17 @@ $$
 $$
 \begin{align}
 z^3 &= -i \\
-&= 
+&= e^{-\frac{i\pi}{2}} \\
+&= e^{-i(\frac{\pi}{2} + 2n\pi)} \\ \\ 
+
+z &= e^{-i(\frac{\pi}{6} + \frac{2n\pi}{3})} \\
 \end{align}
+$$
+Since power of $z$ is 3, get first 3 values $n$ for solutions of $z^3$.
+Therefore,
+
+$$
+z = e^{-i\frac{}},e,e
 $$
 
 # Real n-space $\mathbb{R}^n$
