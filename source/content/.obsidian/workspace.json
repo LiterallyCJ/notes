@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra I/Complex Numbers 4.md",
+                "file": "Linear Algebra I/Complex Numbers 4 and Real n-space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complex Numbers 4"
+              "title": "Complex Numbers 4 and Real n-space"
             }
           }
         ]
@@ -173,7 +173,7 @@
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "Introduction to Statistics/Measures of spread 2.md",
-    "Linear Algebra I/Complex Numbers 4.md",
+    "Linear Algebra I/Complex Numbers 4 and Real n-space.md",
     "Introduction to Statistics/Measures of spread 1.md",
     "Introduction to Statistics/Statistics basics.md",
     "Calculus I/Functions 1.md",

@@ -26,9 +26,8 @@ Since power of $z$ is 3, get first 3 values $n$ for solutions of $z^3$.
 Therefore,
 
 $$
-z = e^{-i\frac{}},e,e
+z = e^{-i\frac{\pi}{6}},e^{i\frac{\pi}{2}},(e^{-i\frac{7\pi}{6}} = e^{i\frac{5\pi}{6}})
 $$
-
 # Real n-space $\mathbb{R}^n$
 
 The real n-space $\mathbb{R}^n$ is the collection of all n-tuples of real numbers.
