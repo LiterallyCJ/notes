@@ -11,14 +11,12 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Programming Logbook/Logbook.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251009112728.png"
               },
-              "icon": "lucide-file",
-              "title": "Logbook"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251009112728"
             }
           }
         ]
@@ -172,11 +170,14 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Programming Logbook/Logbook.md",
+    "Pasted image 20251009113823.png",
+    "Pasted image 20251009113555.png",
+    "Pasted image 20251009113459.png",
     "Pasted image 20251009112828.png",
     "Pasted image 20251009112749.png",
     "Pasted image 20251009112728.png",
     "Calculus I/Functions 3.md",
-    "Programming Logbook/Logbook.md",
     "Programming Logbook",
     "Calculus I/Functions 2.md",
     "Linear Algebra I/Complex Numbers 4 and Real n-space.md",
