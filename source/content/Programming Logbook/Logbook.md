@@ -17,3 +17,5 @@ Jupyter downloaded using Homebrew:
 
 All python libraries installed:
 ![[Pasted image 20251009113823.png]]
+
+![[Pasted image 20251009114502.png]]

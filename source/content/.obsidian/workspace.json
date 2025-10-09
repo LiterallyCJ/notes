@@ -11,12 +11,14 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251009112728.png"
+                "file": "Programming Logbook/Logbook.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251009112728"
+              "icon": "lucide-file",
+              "title": "Logbook"
             }
           }
         ]
@@ -170,13 +172,14 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Pasted image 20251009114502.png",
     "Programming Logbook/Logbook.md",
+    "Pasted image 20251009112728.png",
     "Pasted image 20251009113823.png",
     "Pasted image 20251009113555.png",
     "Pasted image 20251009113459.png",
     "Pasted image 20251009112828.png",
     "Pasted image 20251009112749.png",
-    "Pasted image 20251009112728.png",
     "Calculus I/Functions 3.md",
     "Programming Logbook",
     "Calculus I/Functions 2.md",
