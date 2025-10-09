@@ -21,3 +21,19 @@ The intersection ( $\bigcap$ ) of two events $A$ and $B$ are the outcomes that a
 
 $A$ and $D$ are mutually exclusive if $A \bigcap D = \emptyset$ where $\emptyset =$ the empty set
 	This means $A$ and $D$ have no outcomes in common and therefore both events cannot happen simultaneously
+
+- The compliment of an event is all of the outcomes not in the event
+
+## Axioms of probability
+
+$$
+\begin{align}
+A1:\ &P(s) = 1 \\
+A2:\ &0 \le P(A) \le 1 \\
+A3:\ &P(A \cup B) = P(A) + P(B)
+\end{align}
+$$
+From this, we have:
+$$
+
+$$
