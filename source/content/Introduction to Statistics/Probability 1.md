@@ -5,4 +5,19 @@ Probability is used to express the uncertainty of events
 Subjective probability is probability which is a guess or personal to someone
 	e.g: I predict that $x$ team will win this football game
 
-Probability can come from 
+Probability can come from the long term relative frequency of a random experiment:
+$$
+\frac{\text{Number of repetitions resulting in A}}{\text{Total number of repetitions}}
+$$
+"Common knowledge" can be used to find probability, formally known as the Axioms of Probability.
+
+- The set of all outcomes is called the sample space ($S$)
+- An event is a particular result in an experiment
+- Events are denoted in capital letters
+- A composite event is when multiple are done simultaneously
+
+The union ( $\bigcup$ ) of two events $A$ and $B$ are the outcomes of $A$, or $B$ or both at the same time.
+The intersection ( $\bigcap$ ) of two events $A$ and $B$ are the outcomes that are in both events simultaneously.
+
+$A$ and $D$ are mutually exclusive if $A \bigcap D = \emptyset$ where $\emptyset =$ the empty set
+	This means $A$ and $D$ have no outcomes in common and therefore both events cannot happen simultaneously
