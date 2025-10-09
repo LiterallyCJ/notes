@@ -11,14 +11,10 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Logbook/Logbook.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Logbook"
+              "title": "New tab"
             }
           }
         ]
@@ -172,8 +168,9 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Pasted image 20251009114502.png",
     "Programming Logbook/Logbook.md",
+    "Pasted image 20251009115543.png",
+    "Pasted image 20251009114502.png",
     "Pasted image 20251009112728.png",
     "Pasted image 20251009113823.png",
     "Pasted image 20251009113555.png",
