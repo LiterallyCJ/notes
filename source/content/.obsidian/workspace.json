@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus I/Functions 3.md",
+                "file": "Programming Logbook/Logbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions 3"
+              "title": "Logbook"
             }
           }
         ]
@@ -170,8 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Calculus I/Functions 3.md",
+    "Programming Logbook/Logbook.md",
     "Programming Logbook",
     "Calculus I/Functions 2.md",
     "Linear Algebra I/Complex Numbers 4 and Real n-space.md",
@@ -179,7 +181,6 @@
     "Introduction to Statistics/Measures of spread 1.md",
     "Introduction to Statistics/Statistics basics.md",
     "Calculus I/Functions 1.md",
-    "Calculus I/Functions 3.md",
     "Problem Classes/Linear Algebra I/Problem class 1.md",
     "Linear Algebra I/Complex Numbers 2.md",
     "Problem Classes/Calculus I",
