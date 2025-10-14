@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra I/2. Real N space.md",
+                "file": "Introduction to Statistics/2. Probability 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Real N space"
+              "title": "2. Probability 4"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra I/2. Real N space.md",
+                "file": "Introduction to Statistics/2. Probability 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Real N space"
+              "title": "Backlinks for 2. Probability 4"
             }
           },
           {
@@ -172,16 +172,17 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Linear Algebra I/1.5 Complex Numbers 4 and Real n-space.md",
+    "Calculus I/1. Functions 3.md",
+    "Introduction to Statistics/0. Statistics basics.md",
+    "Introduction to Statistics/2. Probability 4.md",
+    "Introduction to Statistics/2. Probability 1.md",
     "Linear Algebra I/2. Real N space.md",
+    "Linear Algebra I/1.5 Complex Numbers 4 and Real n-space.md",
     "Calculus I/1. Functions 1.md",
     "Calculus I/2. Limits 1.md",
     "Calculus I/2. Limits 2.md",
-    "Calculus I/1. Functions 3.md",
-    "Introduction to Statistics/0. Statistics basics.md",
     "Introduction to Statistics/1. Measures of spread 1.md",
     "Introduction to Statistics/1. Measures of spread 2.md",
-    "Introduction to Statistics/2. Probability 1.md",
     "Linear Algebra I/1. Complex Numbers 1.md",
     "Linear Algebra I/1. Complex Numbers 2.md",
     "Linear Algebra I/1. Complex Numbers 3.md",
