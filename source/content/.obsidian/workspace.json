@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra I/2. Real N space 2.md",
+                "file": "Linear Algebra I/2. Real N space 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Real N space 2"
+              "title": "2. Real N space 4"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra I/2. Real N space 2.md",
+                "file": "Linear Algebra I/2. Real N space 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Real N space 2"
+              "title": "Backlinks for 2. Real N space 4"
             }
           },
           {
@@ -174,7 +174,7 @@
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "Linear Algebra I/2. Real N space.md",
-    "Linear Algebra I/2. Real N space 2.md",
+    "Linear Algebra I/2. Real N space 4.md",
     "Calculus I/2. Limits 1.md",
     "Calculus I/2. Limits 2.md",
     "Calculus I/2. Limits 4.md",
