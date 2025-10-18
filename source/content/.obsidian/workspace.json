@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -170,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "beb4b285b07e2617",
   "lastOpenFiles": [
     "Calculus I/2. Limits 4.md",
     "Calculus I/2. Limits 3.md",
