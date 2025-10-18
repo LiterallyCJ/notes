@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -173,10 +172,10 @@
   },
   "active": "beb4b285b07e2617",
   "lastOpenFiles": [
-    "Calculus I/2. Limits 4.md",
-    "Calculus I/2. Limits 3.md",
-    "Calculus I/2. Limits 5.md",
     "Calculus I/2. Limits 2.md",
+    "Calculus I/2. Limits 3.md",
+    "Calculus I/2. Limits 4.md",
+    "Calculus I/2. Limits 5.md",
     "Calculus I/2. Limits 1.md",
     "Linear Algebra I/2. Real N space 4.md",
     "Untitled 1.base",
