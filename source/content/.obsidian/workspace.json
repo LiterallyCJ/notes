@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Statistics/0. Statistics basics.md",
+                "file": "Linear Algebra I/3. Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Statistics basics"
+              "title": "3. Matrices"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Statistics/0. Statistics basics.md",
+                "file": "Linear Algebra I/3. Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. Statistics basics"
+              "title": "Backlinks for 3. Matrices"
             }
           },
           {
@@ -172,6 +172,8 @@
   },
   "active": "beb4b285b07e2617",
   "lastOpenFiles": [
+    "Introduction to Statistics/0. Statistics basics.md",
+    "Linear Algebra I/3. Matrices.md",
     "Linear Algebra I/1. Complex Numbers 4.md",
     "Calculus I/2. Limits 2.md",
     "Calculus I/3. Differentiation 1.md",
@@ -184,7 +186,6 @@
     "Linear Algebra I/2. Real N space 1.md",
     "Linear Algebra I/2. Real N space 3.md",
     "Linear Algebra I/1. Complex Numbers 2.md",
-    "Introduction to Statistics/0. Statistics basics.md",
     "Untitled.md",
     "Calculus I/1. Functions 3.md",
     "Calculus I/1. Functions 2.md",
@@ -211,7 +212,6 @@
     "Problem Classes/Calculus I",
     "Problem Classes/Linear Algebra I",
     "Problem Classes",
-    "General Notes/Mathematics induction.md",
     "Programming I",
     "Linear Algebra I",
     "Introduction to Statistics",
