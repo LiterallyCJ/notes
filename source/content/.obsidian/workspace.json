@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -156,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,31 +169,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "beb4b285b07e2617",
+  "active": "2aa5a4c073617928",
   "lastOpenFiles": [
-    "Untitled.md",
+    "index.md",
+    "Linear Algebra I/2. Real N space 4.md",
+    "Linear Algebra I/2. Real N space 1.md",
+    "Linear Algebra I/2. Real N space 3.md",
+    "Linear Algebra I/1. Complex Numbers 2.md",
+    "Introduction to Statistics/0. Statistics basics.md",
+    "Calculus I/2. Limits 4.md",
     "Calculus I/3. Differentiation 1.md",
+    "Untitled.md",
     "Calculus I/2. Limits 5.md",
     "Calculus I/2. Limits 1.md",
-    "Calculus I/2. Limits 4.md",
     "Calculus I/2. Limits 3.md",
     "Calculus I/2. Limits 2.md",
     "Calculus I/1. Functions 3.md",
     "Calculus I/1. Functions 2.md",
     "Calculus I/1. Functions 1.md",
-    "Linear Algebra I/2. Real N space 1.md",
     "Linear Algebra I/1. Complex Numbers 4.md",
-    "Linear Algebra I/2. Real N space 3.md",
-    "Linear Algebra I/2. Real N space 4.md",
     "Untitled 1.base",
     "Untitled.base",
     "Introduction to Statistics/1. Measures of spread 2.md",
     "Introduction to Statistics/2. Probability 4.md",
-    "Introduction to Statistics/0. Statistics basics.md",
     "Introduction to Statistics/2. Probability 1.md",
     "Introduction to Statistics/1. Measures of spread 1.md",
     "Linear Algebra I/1. Complex Numbers 1.md",
-    "Linear Algebra I/1. Complex Numbers 2.md",
     "Linear Algebra I/1. Complex Numbers 3.md",
     "Programming Logbook/Logbook.md",
     "Pasted image 20251009115543.png",
@@ -213,7 +212,6 @@
     "Problem Classes",
     "General Notes/Mathematics induction.md",
     "Programming I",
-    "index.md",
     "Linear Algebra I",
     "Introduction to Statistics",
     "General Notes"
