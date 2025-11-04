@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -173,9 +172,10 @@
   },
   "active": "7ca833bccaf8ac78",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Calculus I/4. Curve Sketching 2.md",
     "Calculus I/3. Differentiation 3.md",
+    "Calculus I/3. Differentiation 1.md",
+    "Calculus I/4. Curve Sketching 2.md",
+    "Untitled.md",
     "Linear Algebra I/4. Systems of equations 3.md",
     "Introduction to Statistics/3. Probability Distributions 2.md",
     "Linear Algebra I/4. System of equations 1.md",
@@ -192,7 +192,6 @@
     "Untitled.base",
     "Introduction to Statistics/0. Statistics basics.md",
     "Linear Algebra I/1. Complex Numbers 4.md",
-    "Calculus I/3. Differentiation 1.md",
     "index.md",
     "Linear Algebra I/2. Real N space 4.md",
     "Linear Algebra I/2. Real N space 1.md",
