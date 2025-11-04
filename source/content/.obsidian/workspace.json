@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra I/4. Systems of equations 3.md",
+                "file": "Calculus I/4. Curve Sketching 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Systems of equations 3"
+              "title": "4. Curve Sketching 2"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra I/4. Systems of equations 3.md",
+                "file": "Calculus I/4. Curve Sketching 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Systems of equations 3"
+              "title": "Backlinks for 4. Curve Sketching 2"
             }
           },
           {
@@ -172,8 +172,12 @@
   },
   "active": "7ca833bccaf8ac78",
   "lastOpenFiles": [
-    "Linear Algebra I/4. System of equations 1.md",
+    "Untitled.md",
+    "Calculus I/4. Curve Sketching 2.md",
+    "Calculus I/3. Differentiation 3.md",
     "Linear Algebra I/4. Systems of equations 3.md",
+    "Introduction to Statistics/3. Probability Distributions 2.md",
+    "Linear Algebra I/4. System of equations 1.md",
     "Linear Algebra I/3. Matrices 3.md",
     "Linear Algebra I/3. Matrices 1.md",
     "Calculus I/2. Limits 1.md",
@@ -185,8 +189,6 @@
     "Calculus I/1. Functions 3.md",
     "Calculus I/1. Functions 1.md",
     "Untitled.base",
-    "Calculus I/3. Differentiation 3.md",
-    "Introduction to Statistics/3. Probability Distributions 2.md",
     "Introduction to Statistics/0. Statistics basics.md",
     "Linear Algebra I/1. Complex Numbers 4.md",
     "Calculus I/3. Differentiation 1.md",
@@ -195,11 +197,9 @@
     "Linear Algebra I/2. Real N space 1.md",
     "Linear Algebra I/2. Real N space 3.md",
     "Linear Algebra I/1. Complex Numbers 2.md",
-    "Untitled.md",
     "Untitled 1.base",
     "Introduction to Statistics/1. Measures of spread 2.md",
     "Introduction to Statistics/2. Probability 4.md",
-    "Introduction to Statistics/2. Probability 1.md",
     "Pasted image 20251009115543.png",
     "Pasted image 20251009114502.png",
     "Pasted image 20251009112728.png",
