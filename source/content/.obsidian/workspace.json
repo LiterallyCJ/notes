@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Statistics/2. Probability 2.md",
+                "file": "Introduction to Statistics/2. Probability 2 and 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Probability 2"
+              "title": "2. Probability 2 and 3"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Statistics/2. Probability 2.md",
+                "file": "Introduction to Statistics/2. Probability 2 and 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Probability 2"
+              "title": "Backlinks for 2. Probability 2 and 3"
             }
           },
           {
@@ -173,7 +173,7 @@
   "active": "09c590587cacc2bb",
   "lastOpenFiles": [
     "Introduction to Statistics/2. Probability 4.md",
-    "Introduction to Statistics/2. Probability 2.md",
+    "Introduction to Statistics/2. Probability 2 and 3.md",
     "Calculus I/4. Curve Sketching 3.md",
     "Calculus I/4. Curve Sketching 4.md",
     "Linear Algebra I/2. Real N Space 3.md",
