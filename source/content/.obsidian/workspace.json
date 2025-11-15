@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Statistics/2. Probability 5.md",
+                "file": "Introduction to Statistics/3. Probability Distributions 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Probability 5"
+              "title": "3. Probability Distributions 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Statistics/2. Probability 5.md",
+                "file": "Introduction to Statistics/3. Probability Distributions 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Probability 5"
+              "title": "Backlinks for 3. Probability Distributions 1"
             }
           },
           {
@@ -172,8 +172,10 @@
   },
   "active": "09c590587cacc2bb",
   "lastOpenFiles": [
-    "Introduction to Statistics/2. Probability 4.md",
+    "Introduction to Statistics/3. Probability Distributions 2.md",
+    "Introduction to Statistics/3. Probability Distributions 1.md",
     "Introduction to Statistics/2. Probability 5.md",
+    "Introduction to Statistics/2. Probability 4.md",
     "Introduction to Statistics/2. Probability 2 and 3.md",
     "Calculus I/4. Curve Sketching 3.md",
     "Calculus I/4. Curve Sketching 4.md",
@@ -182,7 +184,6 @@
     "Linear Algebra I/5. Determinants 3.md",
     "Linear Algebra I/5. Determinants 1.md",
     "Introduction to Statistics/2. Probability 1.md",
-    "Introduction to Statistics/3. Probability Distributions 2.md",
     "Linear Algebra I/5. Determinants 2.md",
     "Linear Algebra I/4. Systems of Equations 3.md",
     "Linear Algebra I/4. Systems of Equations 1.md",
@@ -199,7 +200,6 @@
     "Calculus I/2. Limits 1.md",
     "Calculus I/2. Limits 2.md",
     "Calculus I/2. Limits 5.md",
-    "Calculus I/2. Limits 4.md",
     "Pasted image 20251009115543.png",
     "Pasted image 20251009114502.png",
     "Pasted image 20251009112728.png",
