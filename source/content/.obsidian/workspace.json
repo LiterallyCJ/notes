@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -170,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "09c590587cacc2bb",
   "lastOpenFiles": [
     "Introduction to Statistics/2. Probability 2 and 3.md",
     "Introduction to Statistics/2. Probability 4.md",
