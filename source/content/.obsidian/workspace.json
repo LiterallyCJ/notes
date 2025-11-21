@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c803c6118d9611b",
+        "id": "fb705aa98725ab16",
         "type": "tabs",
         "children": [
           {
-            "id": "09c590587cacc2bb",
+            "id": "9f296fb01f810cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,10 +171,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09c590587cacc2bb",
+  "active": "9f296fb01f810cc2",
   "lastOpenFiles": [
-    "Calculus I/4. Curve Sketching 4.md",
+    "Untitled.base",
     "Calculus I/5. Integration.md",
+    "Pasted image 20251121135412.png",
+    "Calculus I/4. Curve Sketching 4.md",
     "Linear Algebra I/7. Subspaces of R 1.md",
     "Linear Algebra I/5. Determinants 1.md",
     "Linear Algebra I/5. Determinants 2.md",
@@ -192,7 +194,6 @@
     "Linear Algebra I/4. Systems of Equations 1.md",
     "Linear Algebra I/4. Systems of Equations 2.md",
     "Untitled 1.base",
-    "Untitled.base",
     "Linear Algebra I/2. Real N Space 4.md",
     "Linear Algebra I/3. Matrices 3.md",
     "Linear Algebra I/3. Matrices 1.md",
@@ -200,7 +201,6 @@
     "Calculus I/3. Differentiation 1.md",
     "Calculus I/3. Differentiation 3.md",
     "Untitled.md",
-    "Calculus I/2. Limits 1.md",
     "Pasted image 20251009115543.png",
     "Pasted image 20251009114502.png",
     "Pasted image 20251009112728.png",
