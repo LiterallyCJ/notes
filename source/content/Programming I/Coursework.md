@@ -80,10 +80,15 @@ Please follow the steps below to model the runners in the system.
 - Create file `runner.py`.
 - For each runner, you need to have the information about their position (i.e., the (x, y)-coordinate), and their orientation (i.e., which direction they are facing). Think about the appropriate data type that you are going to represent the runner and implement the following functions.
     - `create_runner(x: int, y: int, orientation: str)` -- _creates a runner corresponding to the input parameters_. The types for the arguments are given as type hints. You should set the default values for the parameters such that the runner will start from the `(0, 0)` coordinate and face North by default. You do not need to check the validity of the input for now. In particular, you can assume that the `orientation` is one of the 4 given directions, i.e., `"N"`, `"E"`, `"W"`, `"S"`.
+    
     - `get_x(runner)` -- _returns the x-coordinate for the input runner_. Here the input runner is the same type you use for the output of the `create_runner()` function.
+    
     - `get_y(runner)` -- _returns the y-coordinate for the input runner_. Here the input runner is the same type you use for the output of the `create_runner()` function.
+    
     - `get_orientation(runner)` -- returns the orientation for the input runner. Here the input runner is the same type you use for the output of the `create_runner()` function.
+    
     - `turn(runner, direction: str)` -- turn the runner to either `"Left"` or `"Right"`, the function _will return the runner after the turn_. The runner's position should not change, but the runner's orientation will change according to the direction of the turn. For example, if the `runner` is currently facing north (`"N"`), `turn(runner, "Left")` must return a runner at the same position and facing west (`"W"`).
+    
     - `forward(runner)` - move the runner forward 1 cell, _the function will return the runner after the move_. The runner's orientation will be the same, but the position will change according to the runner's orientation. For example, if the runner (at position `(5, 2)`) in the figure above is facing "N" and moving forward, they will be in position `(5, 3)`.
 
 **_You can have any additional variables, functions, and modules for your implementation you wish._**
@@ -172,8 +177,6 @@ See the test harness for examples of how to test the `move` function.
 **BY THIS STAGE** you should have extended `runner.py` containing the above functions. _Congratulations, you achieved a major milestone in solving the maze_. You can create some scenarios to validate your implementation by creating a maze, calling the set walls functions (i.e., `add_horizontal_wall()` and `add_vertical_wall()`), create some runners and check the functionality of  `sense_walls(),` `go_straight(),` `move()`, and `explore()`). You might find it useful to use the render utility function that we have provided in the test harness to print the maze and the runners to the screen. For example, you can use `print(render(maze, runner))` which will show the following corresponding to the figure above.
 
 ```
-
-```
 #######################
 #.....................#
 #.#.#.#.#.#.#.#.#.#.#.#
@@ -185,6 +188,8 @@ See the test harness for examples of how to test the `move` function.
 #.#.#.#.#.#.#.#.#.#.#.#
 #.....................#
 #######################
+```
+
 
 Here the walls are represented by `"#`", the path is represented by "`.`". (This will also be the format for the input file in Part 5). The runner is represented by either "`^`", "`>`", "`v`", or "`<`" depending on their facing direction.
 
