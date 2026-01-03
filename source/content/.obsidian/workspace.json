@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra I/7. Subspaces of R 1.md",
+                "file": "Linear Algebra I/7. Subspaces of R 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Subspaces of R 1"
+              "title": "7. Subspaces of R 2"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "9f296fb01f810cc2",
   "lastOpenFiles": [
-    "Linear Algebra I/7. Subspaces of R.md",
     "Linear Algebra I/7. Subspaces of R 1.md",
+    "Linear Algebra I/7. Subspaces of R 2.md",
+    "Linear Algebra I/7. Subspaces of R.md",
     "Calculus I/7. Indeterminate forms and Improper Integrals 2.md",
     "Calculus I/6. Methods of Integration 1.md",
     "Calculus I/7. Indeterminate Forms and Improper Integrals 1.md",
@@ -201,7 +202,6 @@
     "Linear Algebra I/2. Real N Space 1.md",
     "Introduction to Statistics/2. Probability 1.md",
     "Linear Algebra I/4. Systems of Equations 3.md",
-    "Linear Algebra I/4. Systems of Equations 1.md",
     "Pasted image 20251009115543.png",
     "Pasted image 20251009114502.png",
     "Pasted image 20251009112728.png",
