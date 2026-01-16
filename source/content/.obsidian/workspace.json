@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra I/7. Subspaces of R 1.md",
+                "file": "Calculus I/7. Indeterminate forms and Improper Integrals 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Subspaces of R 1"
+              "title": "7. Indeterminate forms and Improper Integrals 2"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -173,12 +172,12 @@
   },
   "active": "9f296fb01f810cc2",
   "lastOpenFiles": [
+    "Linear Algebra I/7. Subspaces of R 1.md",
     "Linear Algebra I/7. Subspaces of R 2.md",
     "Linear Algebra I/9. Orthonormal sets and quadratic forms 1.md",
     "Linear Algebra I/8. Eigenvalues, eigenvectors, and applications 2.md",
     "Linear Algebra I/7. Subspaces of R 3.md",
     "Linear Algebra I/8. Eigenvalues, eigenvectors, and applications 1.md",
-    "Linear Algebra I/7. Subspaces of R 1.md",
     "Calculus I/7. Indeterminate forms and Improper Integrals 2.md",
     "Calculus I/6. Methods of Integration 1.md",
     "Calculus I/7. Indeterminate Forms and Improper Integrals 1.md",
