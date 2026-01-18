@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus I/2. Limits 1.md",
+                "file": "Calculus I/7. Indeterminate Forms and Improper Integrals 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Limits 1"
+              "title": "7. Indeterminate Forms and Improper Integrals 1"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "9f296fb01f810cc2",
   "lastOpenFiles": [
-    "Calculus I/2. Limits 2.md",
     "Calculus I/2. Limits 1.md",
+    "Calculus I/2. Limits 2.md",
     "Untitled.base",
     "Untitled 2.base",
     "Calculus I/7. Indeterminate forms and Improper Integrals 2.md",
