@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus I/7. Indeterminate forms and Improper Integrals 2.md",
+                "file": "Calculus I/2. Limits 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Indeterminate forms and Improper Integrals 2"
+              "title": "2. Limits 1"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -173,13 +172,15 @@
   },
   "active": "9f296fb01f810cc2",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 2.base",
+    "Calculus I/7. Indeterminate forms and Improper Integrals 2.md",
     "Linear Algebra I/7. Subspaces of R 1.md",
     "Linear Algebra I/7. Subspaces of R 2.md",
     "Linear Algebra I/9. Orthonormal sets and quadratic forms 1.md",
     "Linear Algebra I/8. Eigenvalues, eigenvectors, and applications 2.md",
     "Linear Algebra I/7. Subspaces of R 3.md",
     "Linear Algebra I/8. Eigenvalues, eigenvectors, and applications 1.md",
-    "Calculus I/7. Indeterminate forms and Improper Integrals 2.md",
     "Calculus I/6. Methods of Integration 1.md",
     "Calculus I/7. Indeterminate Forms and Improper Integrals 1.md",
     "Calculus I/6. Methods of integration 2.md",
@@ -194,14 +195,12 @@
     "Calculus I/4. Curve Sketching 4.md",
     "Introduction to Statistics/2. Probability 4.md",
     "Untitled 1.base",
-    "Untitled.base",
     "Pasted image 20251121135412.png",
     "Linear Algebra I/5. Determinants 1.md",
     "Linear Algebra I/5. Determinants 2.md",
     "Linear Algebra I/5. Determinants 3.md",
     "Introduction to Statistics/2. Probability 2 and 3.md",
     "Calculus I/4. Curve Sketching 3.md",
-    "Linear Algebra I/2. Real N Space 3.md",
     "Pasted image 20251009115543.png",
     "Pasted image 20251009114502.png",
     "Pasted image 20251009112728.png",
@@ -216,7 +215,6 @@
     "Problem Classes",
     "Programming I",
     "Linear Algebra I",
-    "Introduction to Statistics",
-    "General Notes"
+    "Introduction to Statistics"
   ]
 }
