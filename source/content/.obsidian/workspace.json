@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus I/4. Curve Sketching 3.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Curve Sketching 3"
+              "title": "index"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -173,8 +172,9 @@
   },
   "active": "9f296fb01f810cc2",
   "lastOpenFiles": [
-    "Calculus I/4. Curve Sketching 2.md",
     "Calculus I/4. Curve Sketching 3.md",
+    "Linear Algebra II",
+    "Calculus I/4. Curve Sketching 2.md",
     "Calculus I/4. Curve Sketching 4.md",
     "Calculus I/1. Functions 1.md",
     "Calculus I/1. Functions 3.md",
@@ -200,7 +200,6 @@
     "Introduction to Statistics/2. Probability 5.md",
     "Calculus I/6. Methods of integration 3.md",
     "Calculus I/5. Integration 2.md",
-    "Calculus I/5. Integration 1.md",
     "Untitled 1.base",
     "Pasted image 20251121135412.png",
     "Pasted image 20251009115543.png",
@@ -216,7 +215,6 @@
     "Problem Classes/Linear Algebra I",
     "Problem Classes",
     "Programming I",
-    "Linear Algebra I",
-    "Introduction to Statistics"
+    "Linear Algebra I"
   ]
 }
