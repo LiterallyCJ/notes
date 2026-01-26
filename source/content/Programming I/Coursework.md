@@ -1,8 +1,8 @@
-|   |   |
-|---|---|
-|**Issue Date**|**23rd October 2025**|
-|**Last Release Date**|**23rd October 2025**|
-|**Submission Deadline**|**16:00, 12th December 2025**|
+|                         |                               |
+| ----------------------- | ----------------------------- |
+| **Issue Date**          | **23rd October 2025**         |
+| **Last Release Date**   | **23rd October 2025**         |
+| **Submission Deadline** | **16:00, 12th December 2025** |
 
 [Coursework](https://moodle.ecs.soton.ac.uk/course/section.php?id=5777 "Coursework") is the continuously assessed part of the examination and is a required part of the degree assessment. Assessed work must be submitted as specified below. You are reminded to read all of the following instructions carefully.
 
