@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Mathematics/1. Linear Programming and the Simplex Method.md",
+                "file": "Linear Algebra II/1. Groups 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Linear Programming and the Simplex Method"
+              "title": "1. Groups 2"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "9f296fb01f810cc2",
   "lastOpenFiles": [
-    "Programming I/Coursework.md",
     "Computational Mathematics/1. Linear Programming and the Simplex Method.md",
+    "Linear Algebra II/1. Groups 2.md",
+    "Linear Algebra I/1. Groups.md",
+    "Programming I/Coursework.md",
     "Computational Mathematics",
     "Calculus II",
     "Programming II",
@@ -203,8 +205,6 @@
     "Calculus I/6. Methods of integration 2.md",
     "Introduction to Statistics/3. Probability distributions 3.md",
     "Introduction to Statistics/3. Probability Distributions 2.md",
-    "Introduction to Statistics/3. Probability Distributions 1.md",
-    "Introduction to Statistics/2. Probability 5.md",
     "Untitled 1.base",
     "Pasted image 20251121135412.png",
     "Pasted image 20251009115543.png",
