@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra II/1. Groups 1.md",
+                "file": "Calculus II/1. First Order ODEs 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Groups 1"
+              "title": "1. First Order ODEs 2"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -173,10 +172,12 @@
   },
   "active": "9f296fb01f810cc2",
   "lastOpenFiles": [
-    "Calculus II/2. Second Order ODEs 1.md",
     "Calculus II/1. First Order ODEs 1.md",
-    "Linear Algebra II/1. Groups 1.md",
+    "Calculus II/1. First Order ODEs 2.md",
+    "Calculus II/2. Second Order ODEs 1.md",
+    "Linear Algebra II/1. Groups 3.md",
     "Linear Algebra II/1. Groups 2.md",
+    "Linear Algebra II/1. Groups 1.md",
     "Computational Mathematics/1. Linear Programming and the Simplex Method.md",
     "Linear Algebra I/1. Groups.md",
     "Programming I/Coursework.md",
@@ -203,8 +204,6 @@
     "Untitled.base",
     "Untitled 2.base",
     "Calculus I/7. Indeterminate forms and Improper Integrals 2.md",
-    "Linear Algebra I/7. Subspaces of R 1.md",
-    "Calculus I/6. Methods of Integration 1.md",
     "Untitled 1.base",
     "Pasted image 20251121135412.png",
     "Pasted image 20251009115543.png",
