@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -174,6 +173,7 @@
   "active": "041f8ec5031d8c45",
   "lastOpenFiles": [
     "Linear Algebra II/1. Groups 1.md",
+    "Linear Algebra II/1. Groups 2.md",
     "Linear Algebra II/2. Fields and Vector Spaces 2.md",
     "Calculus II/2. Second Order ODEs 1.md",
     "Calculus II/1. First Order ODEs 2.md",
@@ -192,7 +192,6 @@
     "Computational Mathematics/1. Linear Programming and the Simplex Method 2.md",
     "Computational Mathematics/1. Linear Programming and the Simplex Method 1.md",
     "Untitled.md",
-    "Linear Algebra II/1. Groups 2.md",
     "Linear Algebra I/1. Groups.md",
     "Programming I/Coursework.md",
     "Computational Mathematics",
