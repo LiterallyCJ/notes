@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra II/3. Bases 2.md",
+                "file": "Linear Algebra II/4. Linear Transformations 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Bases 2"
+              "title": "4. Linear Transformations 1"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "041f8ec5031d8c45",
   "lastOpenFiles": [
-    "Linear Algebra II/3. Bases 1.md",
     "Linear Algebra II/3. Bases 2.md",
+    "Linear Algebra II/4. Linear Transformations 1.md",
+    "Linear Algebra II/3. Bases 1.md",
     "Linear Algebra II/2. Fields and Vector Spaces 3.md",
     "Linear Algebra II/2. Fields and Vector Spaces 2.md",
     "Linear Algebra II/2. Fields and Vector Spaces 1.md",
@@ -201,7 +202,6 @@
     "Computational Mathematics",
     "Calculus II",
     "Programming II",
-    "Linear Algebra I/7. Subspaces of R 2.md",
     "Linear Algebra II",
     "Untitled.base",
     "Untitled 2.base",
