@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2. Fields and Vector Spaces 2"
             }
+          },
+          {
+            "id": "b270d2c4f6b81b5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "041f8ec5031d8c45",
+  "active": "b270d2c4f6b81b5b",
   "lastOpenFiles": [
     "Linear Algebra II/2. Fields and Vector Spaces 3.md",
     "Linear Algebra II/5. Determinants 1.md",
