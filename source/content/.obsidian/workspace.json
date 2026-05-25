@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus II/2. Second Order ODEs 1.md",
+                "file": "Calculus II/2. Second Order ODEs 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Second Order ODEs 1"
+              "title": "2. Second Order ODEs 2"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "041f8ec5031d8c45",
   "lastOpenFiles": [
-    "Calculus II/1. First Order ODEs 2.md",
     "Calculus II/2. Second Order ODEs 1.md",
+    "Calculus II/2. Second Order ODEs 2.md",
+    "Calculus II/1. First Order ODEs 2.md",
     "Calculus II/1. First Order ODEs 1.md",
     "Computational Mathematics/1. Linear Programming and the Simplex Method 3.md",
     "Computational Mathematics/1. Linear Programming and the Simplex Method 2.md",
@@ -197,7 +198,6 @@
     "Calculus I/7. Indeterminate forms and Improper Integrals 2.md",
     "Calculus I/7. Indeterminate Forms and Improper Integrals 1.md",
     "Calculus I/6. Methods of Integration 1.md",
-    "Linear Algebra I/7. Subspaces of R 1.md",
     "Computational Mathematics",
     "Calculus II",
     "Programming II",
